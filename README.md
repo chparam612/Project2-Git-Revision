@@ -1,3 +1,11 @@
 # New Project 
 
 This project war created from local system
+
+# command used
+
+git remote add origin <--link-->
+git remote -v
+git brranch
+git branch -m main
+git push origin main
