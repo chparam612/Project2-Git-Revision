@@ -10,3 +10,4 @@ git brranch
 git branch -m main
 git push origin main
 git push -u origin main
+git commit -am"--msg-->
